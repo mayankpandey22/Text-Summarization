@@ -10,3 +10,8 @@
 6. update the pipeline
 7. update main.py
 8. update app.py
+
+
+
+
+Save This URL-  682079780941.dkr.ecr.us-east-1.amazonaws.com/texts
